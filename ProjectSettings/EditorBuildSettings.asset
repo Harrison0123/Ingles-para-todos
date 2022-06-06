@@ -1,0 +1,143 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Initial.unity
+    guid: 4a96aef87c7d55148a95cd9118153eca
+  - enabled: 1
+    path: Assets/Scenes/Login.unity
+    guid: d4394b7d90bd6cb4193dc33ae54d1832
+  - enabled: 1
+    path: Assets/Scenes/Main.unity
+    guid: 81e1339692f659747a5a0e4dda8f04b8
+  - enabled: 1
+    path: Assets/Scenes/puntaje.unity
+    guid: 46e89c1de32fb8e4d8df8ee04270028a
+  - enabled: 1
+    path: Assets/Scenes/gano.unity
+    guid: c8965c6996738404aa3a142d1b3d3af0
+  - enabled: 1
+    path: Assets/Scenes/perdio.unity
+    guid: ab07bc0dd6c42074c8319681e1ea242b
+  - enabled: 1
+    path: Assets/Scenes/Preguntas basicas/1p.unity
+    guid: 31e05eb84fe79eb4997348a5d969a040
+  - enabled: 1
+    path: Assets/Scenes/Preguntas basicas/2p.unity
+    guid: c8b7938d3e95dad479af076f5d1149b5
+  - enabled: 1
+    path: Assets/Scenes/Preguntas basicas/3p.unity
+    guid: a4c6d025fad903d44869d3fc03b5d9ab
+  - enabled: 1
+    path: Assets/Scenes/Preguntas basicas/4p.unity
+    guid: 3918df85a707f544296ca38eaea2c6cc
+  - enabled: 1
+    path: Assets/Scenes/Preguntas basicas/5p.unity
+    guid: 3cd81809916e8ff428050399b83c2b5f
+  - enabled: 1
+    path: Assets/Scenes/Preguntas basicas/6p.unity
+    guid: 16a4eeb4dafc98143967f9c97343a246
+  - enabled: 1
+    path: Assets/Scenes/Preguntas basicas/7p.unity
+    guid: d30366d9fcdb1354abb4dd037cd3f12f
+  - enabled: 1
+    path: Assets/Scenes/Preguntas basicas/8p.unity
+    guid: 697f3b44b78992a4790f93d8d91ec76e
+  - enabled: 1
+    path: Assets/Scenes/Preguntas basicas/9p.unity
+    guid: e8fc019ffaf23c1498f5c429d0040358
+  - enabled: 1
+    path: Assets/Scenes/Preguntas basicas/10p.unity
+    guid: 71993cb07cf5d51479e3b5919c1659d5
+  - enabled: 1
+    path: Assets/Scenes/Preguntas basicas/11p.unity
+    guid: b951c2b8ac183fd4197e022a72e85769
+  - enabled: 1
+    path: Assets/Scenes/Preguntas basicas/12p.unity
+    guid: 7529c9e84064fb5459f508ad96ea7fb2
+  - enabled: 1
+    path: Assets/Scenes/Preguntas basicas/13p.unity
+    guid: ac3c5f7baaca1ab4699693a71adb238c
+  - enabled: 1
+    path: Assets/Scenes/Preguntas basicas/presentacion.unity
+    guid: 2f942becd9dc6f44585e1ebc15b4771c
+  - enabled: 1
+    path: "Assets/Scenes/Completa la oraci\xF3n/1c.unity"
+    guid: 199feefd32e7d1540aa4728e2dc5fe6a
+  - enabled: 1
+    path: "Assets/Scenes/Completa la oraci\xF3n/2c.unity"
+    guid: 0b1990cff9fd53246b73d971a2cf647e
+  - enabled: 1
+    path: "Assets/Scenes/Completa la oraci\xF3n/3c.unity"
+    guid: fbcf339c1d6a30244a5919f5b96385e2
+  - enabled: 1
+    path: "Assets/Scenes/Completa la oraci\xF3n/4c.unity"
+    guid: d297ed0966830de4f81a98eb6f1346af
+  - enabled: 1
+    path: "Assets/Scenes/Completa la oraci\xF3n/5c.unity"
+    guid: 2dd2ce4bc4c0ca84baece359f95d2feb
+  - enabled: 1
+    path: "Assets/Scenes/Completa la oraci\xF3n/verbo to be.unity"
+    guid: adb37e53dd11cad40a29538195849b7b
+  - enabled: 1
+    path: Assets/Scenes/Adivina el objeto/1r.unity
+    guid: 6e7ed7d245dd502438f850126c24162f
+  - enabled: 1
+    path: Assets/Scenes/Adivina el objeto/2r.unity
+    guid: bd74021778ac342468b1a3999493853b
+  - enabled: 1
+    path: Assets/Scenes/Adivina el objeto/3r.unity
+    guid: 4ee88b79339dce744a5c23d866023aaf
+  - enabled: 1
+    path: Assets/Scenes/Adivina el objeto/4r.unity
+    guid: b23967b1ae5e75145970207d03ed38b8
+  - enabled: 1
+    path: Assets/Scenes/Adivina el objeto/5r.unity
+    guid: 257ba0b233b885848af40db10103a4c7
+  - enabled: 1
+    path: Assets/Scenes/Adivina el objeto/6r.unity
+    guid: f011fac05bae6c143bd071c7928d9f2a
+  - enabled: 1
+    path: Assets/Scenes/Adivina el objeto/7r.unity
+    guid: 9790d4094c8160047a626cbb5eb176c6
+  - enabled: 1
+    path: Assets/Scenes/Adivina el objeto/8r.unity
+    guid: 53a44f1b322ea2b45a312b205766f4c1
+  - enabled: 1
+    path: Assets/Scenes/Adivina el objeto/9r.unity
+    guid: ff4818236867d2c4884b3f7f56c48bcd
+  - enabled: 1
+    path: Assets/Scenes/Adivina el objeto/10r.unity
+    guid: 092795f6df4a23c46b8d7b9ec75000f4
+  - enabled: 1
+    path: Assets/Scenes/Adivina el objeto/11r.unity
+    guid: 4c924f5a10852cf4ab63dda267cc5bae
+  - enabled: 1
+    path: Assets/Scenes/Adivina el objeto/12r.unity
+    guid: bd594fd58637e8246b79c5e57e416714
+  - enabled: 1
+    path: Assets/Scenes/Adivina el objeto/13r.unity
+    guid: 26f30cd97a31e264cb257ea8ddfe9e24
+  - enabled: 1
+    path: Assets/Scenes/Adivina el objeto/restaurante.unity
+    guid: 74b3bef3b8439df41ab4018fd2f61b26
+  - enabled: 1
+    path: Assets/Scenes/Traduce/1t.unity
+    guid: 852a0c9b29bbc4b48b6f5dafba1474b9
+  - enabled: 1
+    path: Assets/Scenes/Traduce/2t.unity
+    guid: 961d6b3a6a3b0c443916a095b453541f
+  - enabled: 1
+    path: Assets/Scenes/Traduce/3t.unity
+    guid: 0cd86d5d921965441bf4e8d3d7b50593
+  - enabled: 1
+    path: Assets/Scenes/Traduce/4t.unity
+    guid: 9329bc37b8a33ba46a4d6f80afc1b2b0
+  - enabled: 1
+    path: Assets/Scenes/Traduce/frases.unity
+    guid: bd93f9edad6cbd040baf34597c0343e2
+  m_configObjects: {}
